@@ -1,5 +1,4 @@
 de Beauvoir
-
 Copyright 2014 by Angela Lau
 
 This program is free software; you can redistribute it and/or modify
@@ -20,7 +19,6 @@ This program incorporates work covered by the following copyright and
 permission notices:
 
   Simone WordPress Theme is (c) 2014 Morten Rand-Hendriksen
-  
   Simone is distributed under the terms of the GNU GPL v2.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
