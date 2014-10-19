@@ -1,4 +1,10 @@
 <?php
+/**
+ * de Beauvoir functions and definitions
+ *
+ * @package Simone
+ * @subpackage de-beauvoir
+ */
 
 add_action('wp_head', 'favicon_link');
 function favicon_link() {

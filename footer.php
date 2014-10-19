@@ -7,6 +7,7 @@
  * Modified from Simone
  *
  * @package simone
+ * @subpackage de-beauvoir
  */
 ?>
 
