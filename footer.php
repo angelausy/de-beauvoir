@@ -4,6 +4,8 @@
  *
  * Contains the closing of the #content div and all content after
  *
+ * Modified from Simone
+ *
  * @package simone
  */
 ?>
@@ -24,10 +26,9 @@
 			<?php
 			printf(
 				/* translators: %1$s = text link: Simone, URL: http://wordpress.org/themes/simone/, %2$s = text link: mor10.com, URL: http://mor10.com/ */
-				__( 'Theme: %1$s by %2$s, with %3$s', 'simone' ),
-                                '<a href="http://wordpress.org/themes/simone/" rel="nofollow">' . esc_attr( 'Simone', 'simone' ) . '</a>',
-				'<a href="http://mor10.com/" rel="designer nofollow">' . esc_attr__( 'mor10.com', 'simone' ) . '</a>',
-				'<a href="https://github.com/angelausy/de-beauvoir" rel="nofollow">' . esc_attr( 'modifications', 'simone' ) . '</a>' ); ?>
+				__( 'Theme: %1$s by %2$s' . ', with <a href="https://github.com/angelausy/de-beauvoir" rel="nofollow">modifications</a>', 'simone' ),
+                                '<a href="http://wordpress.org/themes/simone/" rel="nofollow">' . esc_attr__( 'Simone', 'simone' ) . '</a>',
+				'<a href="http://mor10.com/" rel="designer nofollow">' . esc_attr__( 'mor10.com', 'simone' ) . '</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
