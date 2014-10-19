@@ -1,0 +1,7 @@
+/*
+Theme Name: de Beauvoir
+Description: A child theme of Simone.
+Template: simone
+*/
+
+.menu-social li a[href^="mailto"]::before { content: '\f1d8'; }
