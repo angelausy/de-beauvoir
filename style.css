@@ -6,4 +6,6 @@ Author URI: http://www.angelalau.net
 Template: simone
 */
 
+blockquote { border: 0; }
+
 .menu-social li a[href^="mailto"]::before { content: '\f1d8'; }
