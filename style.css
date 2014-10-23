@@ -8,4 +8,6 @@ Template: simone
 
 blockquote { border: 0; }
 
+.alignleft { margin-left: 0; }
+
 .menu-social li a[href^="mailto"]::before { content: '\f1d8'; }
